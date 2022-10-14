@@ -1,0 +1,28 @@
+{
+  "name": "dex-dai",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.19.0",
+    "@openzeppelin/contracts": "^4.7.3",
+    "babel-helpers": "^6.24.1",
+    "eth-rpc-errors": "^4.0.3",
+    "openzeppelin-solidity": "^2.5.1"
+  },
+  "description": "",
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.16"
+  },
+  "typeRoots": [
+    "./typings/index.d.tx"
+  ]
+}
