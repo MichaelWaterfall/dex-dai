@@ -34266,12 +34266,12 @@
         }
       },
       "links": {},
-      "address": "0x6071ec8c9a6f781012492D116793e5Ba429FFC96",
-      "transactionHash": "0xa7fbe45f4c99bf8a33141f49a907c0cca52a2ea6ad921b0387b7bc49c8a931a0"
+      "address": "0x67D529acf6E2A0e0F6896d38d07B873fd277319B",
+      "transactionHash": "0xe4b45a9b3ed871c7d566827f958b8f76de2107b1748dde72b6349d4bea459fd5"
     }
   },
   "schemaVersion": "3.3.4",
-  "updatedAt": "2022-10-12T02:09:22.468Z",
+  "updatedAt": "2022-11-21T08:52:09.524Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",

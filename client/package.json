@@ -4,6 +4,7 @@
     "private": true,
     "dependencies": {
         "@metamask/detect-provider": "^1.2.0",
+        "@truffle/hdwallet-provider": "^2.1.1",
         "@usedapp/core": "^1.1.5",
         "bootstrap": "^4.4.1",
         "moment": "^2.29.4",
